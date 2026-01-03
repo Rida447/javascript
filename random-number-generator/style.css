@@ -1,0 +1,14 @@
+#myLabel{
+    font-size: 3em;
+    font-family: Helvetica;
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+#myBtn{
+    background-color: aliceblue;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
